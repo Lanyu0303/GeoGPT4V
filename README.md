@@ -64,6 +64,7 @@ You can use following models' offical training code or use your own code. You ca
 ## GeoGPT4V Dataset
 
 GeoGPT4V dataset will be available soon.
+You can find the data example in data/geogpt4v_data_example.jsonl.
 
 ## Model Zoo
 
