@@ -63,8 +63,8 @@ You can use following models' offical training code or use your own code. Please
 
 ## GeoGPT4V Dataset
 
-GeoGPT4V dataset is comming soon.
+GeoGPT4V dataset will be available soon.
 
 ## Model Zoo
 
-The checkpoints are comming soon.
+The checkpoints will be available soon.
