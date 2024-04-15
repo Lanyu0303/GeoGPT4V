@@ -59,7 +59,7 @@ You can use following models' offical training code or use your own code. Please
 
 1. [LLaVA](https://github.com/haotian-liu/LLaVA)
 2. [ShareGPT4V](https://sharegpt4v.github.io/)
-3. [InternVL-Chat]([ShareGPT4V](https://sharegpt4v.github.io/))
+3. [InternVL-Chat](https://github.com/OpenGVLab/InternVL)
 
 ## GeoGPT4V Dataset
 
