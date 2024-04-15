@@ -55,7 +55,7 @@ Run the scripts in the following order, remember to modify the dataset path and 
 
 ## Train
 
-You can use following models' offical training code or use your own code. Please transform the GeoGPT4V dataset into the required format for model training.
+You can use following models' offical training code or use your own code. You can run scripts/convert_format.sh to transform the GeoGPT4V dataset into the required format for model training.
 
 1. [LLaVA](https://github.com/haotian-liu/LLaVA)
 2. [ShareGPT4V](https://sharegpt4v.github.io/)
