@@ -7,11 +7,6 @@ This repository contains the code and data for the paper titled "GeoGPT4V: Enhan
 
 1. Clone this repository.
 
-   ```shell
-   git clone xxx
-   cd xxx
-   ```
-
 2. Install Package.
 
    ```shell
