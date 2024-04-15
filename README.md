@@ -10,8 +10,8 @@ This repository contains the code and data for the paper titled "GeoGPT4V: Enhan
 2. Install Package.
 
    ```shell
-   conda create -n ggeo python=3.10 -y
-   conda activate ggeo
+   conda create -n geogpt4v python=3.10 -y
+   conda activate geogpt4v
    pip install -r requirements.txt
    ```
 
