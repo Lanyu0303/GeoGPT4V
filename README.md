@@ -1,6 +1,6 @@
 # GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation
 
-This repository contains the code and data for the paper titled "GeoGPT4V: Enhancing Multi-modal Large Language Models' Geometric Abilities through Geometric Image Generation."
+This repository contains the code and data for the paper titled "GeoGPT4V: Towards Geometric Multi-modal Large Language Models with Geometric Image Generation"
 
 
 ## Install
