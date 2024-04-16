@@ -1,5 +1,5 @@
-gpt4v_system_prompt_description = f'''Please act as a Scorer.
-Here is a description, along with an image. Please evaluate the degree of match between the image and the description and give a score. 
+gpt4v_system_prompt_description = f'''Please act as a scorer.
+Give you a description, along with an image. Please evaluate the degree of match between the image and the description and give a score. 
 The evaluation process must meet the following conditions:
 1. The score is a decimal between 0 and 1.
 2. The score reflects the degree of image-description match.
